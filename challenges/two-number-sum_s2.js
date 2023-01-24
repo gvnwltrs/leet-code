@@ -19,7 +19,6 @@ let b = [4, 6];
 let c = [4, 6, 1]; 
 let input = c; 
 
-// let target = 10; 
 let target = 10; 
 
 let result = twoNumberSum(input, target); 
