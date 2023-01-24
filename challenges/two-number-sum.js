@@ -6,6 +6,7 @@ function twoNumberSum(array, targetSum) {
 
   let targetSumResult = []; 
 
+  // On^2
   for (let i = 0; i < array.length; i++) {
     for (let j = i+1; j <= array.length; j++) {
       console.log('test');
